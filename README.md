@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Joseph Kwak 👋
 
-<!--
-**josephkwakeng/josephkwakeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer based in Canada.
 
-Here are some ideas to get you started:
+I have 10+ years of experience building scalable web applications and enterprise systems across Canada and South Korea.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on secure biometric authentication platforms at **IDEMIA**, developing full-stack systems using React, Node.js, and AWS.
+
+---
+
+## Tech Stack
+
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![TypeScript](https://img.shields.io/badge/TypeScript-JavaScript-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+
+---
+
+## Experience
+
+- 10+ years in software engineering
+- Building enterprise identity and biometric systems
+- Full-stack development across frontend, backend, and cloud infrastructure
+- Experience working with distributed teams and large-scale systems
+
+---
+
+## Interests
+
+- Distributed systems
+- WebRTC
+- Cloud architecture
+- Secure identity systems
+- Developer tools
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/josephkwak/
